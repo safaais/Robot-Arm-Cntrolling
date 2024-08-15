@@ -53,5 +53,5 @@ roslaunch robot_arm_pkg check_motors_gazebo.launch
 ```
 roslaunch moveit_pkg demo.launch
 ```
-![image alt]()
+![image alt](https://github.com/safaais/Robot-Arm-Cntrolling/blob/723a9acaa9d5df11da278915e3657cd36157377c/Screenshot%202024-08-15%20234435.png)
 
